@@ -59,9 +59,9 @@ const VALIDATION_RULES = {
       'user' : { 
           firstName: 'John', 
           lastName: 'Due', 
-          age: 1,
-          email: 'asd@ttt.com',
-          city: 'Tf'
+          age: 30,
+          email: 'john@gmail.com',
+          city: 'Melbourne'
       } 
   };
   
