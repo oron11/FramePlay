@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.6",
+    "node-input-validator": "^4.5.0"
+  }
+}
